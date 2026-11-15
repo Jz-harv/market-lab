@@ -1,5 +1,7 @@
 # Market Lab
 
+[Open the live website](https://jz-harv.github.io/market-lab/)
+
 An interactive microeconomics study website for exploring how market decisions change prices, quantities, profits, and welfare.
 
 ## Simulators
